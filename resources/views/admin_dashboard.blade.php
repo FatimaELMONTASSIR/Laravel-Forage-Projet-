@@ -1,5 +1,5 @@
-@extends('layout')
 
+@extends('layouts.app')
 @section('title', 'Admin Dashboard - Construction Management')
 @section('page-title', 'Admin Dashboard')
 @section('page-description', 'Overview of all construction projects and activities')
